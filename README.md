@@ -1,0 +1,11 @@
+# GDC Nile Chapter – Beginner Track Submission
+
+This repository contains my submission for the Beginner Track of the Google Developer's Club (Nile Chapter).
+
+## Contents
+
+- A beginner-friendly To-Do List Web Application.
+- Documentation of prompts used during development.
+- Learning notes, challenges faced, and solutions.
+
+The project demonstrates my understanding of basic HTML, CSS, JavaScript, and version control using Git.
