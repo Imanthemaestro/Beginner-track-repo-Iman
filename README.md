@@ -1,5 +1,5 @@
 This folder will hold my first project that I'm 
-submitting for the GDC Nile chapter. 🗿 It contains: 
+submitting for the GDC Nile chapter. 🗿 It currently contains: 
 a. A To-Do list web application.
 b. Documentation of prompts used. 
 c. Learning notes and challenges faced. 
