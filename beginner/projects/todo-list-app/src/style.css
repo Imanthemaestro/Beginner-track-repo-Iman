@@ -28,3 +28,18 @@ body.dark-mode button{
     background-color: #dbd81d;
 }
 
+.header{
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+}
+
+.weekdays{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+}
+.day{
+    background-color: violet;
+    padding: 10px;
+}
