@@ -20,4 +20,4 @@ Click the moon icon to toggle dark mode.
 ![Light Mode](images/lightmode-upper-half.png)
 
 ### Dark Mode
-![Dark Mode](images/dark-mode.png)
+![Dark Mode](images/dark-mode.png) (P.S. check the images folder)
