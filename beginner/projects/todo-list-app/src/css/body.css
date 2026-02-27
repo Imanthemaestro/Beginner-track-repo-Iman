@@ -1,5 +1,10 @@
+.toggle-button{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: left;
+}
 .header{
-    background-color: grey;
+    
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -10,39 +15,50 @@
     flex-direction: column;
 }
 
-.pfp{
-    width: 80px;
-    height: 80px;
+.pfp img{
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
+    object-fit: cover;
     background-color: white;
 }
 
 
 .weekdays{
-    background-color: aqua;
     display: flex;
     justify-content: space-around;
 }
 .day{
-    background-color: violet;
+    background-color: #fdfdfd;
+    border-radius: 100%;
+    max-width: fit-content;
     padding: 10px;
 }
 
 .mid-section-with-pic{
+    padding: 20px;
     display: flex;
     gap: 20px;
-    background-color: lightblue; 
+   
 }
 
 .mid-pic{
     width: 370px;
     height:370px;
-    border-radius: 10px;
+    object-fit: cover;
+    border-radius: 100px;
 }
 
 .motivation{
-    background-color: lightgreen;
     padding: 10px;
+}
+
+.todo-list{
+    background-color: #fdfdfd;
+    justify-content: space-between; 
+    border-radius: 10px;
+    padding: 20px;
+    width: 400px;
 }
 
 .bottom{
@@ -50,8 +66,12 @@
 }
 
 .bottom-item{
-    background-color: lightcoral;
     padding: 10px;
     margin: 10px;
     flex: 1;
+}
+
+#task1, #task2, #task3, #task4{
+    width: 20px;
+    height: 20px;
 }
