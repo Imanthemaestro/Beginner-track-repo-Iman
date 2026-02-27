@@ -32,7 +32,9 @@ body.dark-mode button{
     background-color: grey;
     display: flex;
     justify-content: space-between;
-    padding-bottom: 20px;
+}
+
+.pfp{
 }
 
 .weekdays{
@@ -47,5 +49,18 @@ body.dark-mode button{
 
 .mid-section-with-pic{
     display: flex;
+    justify-content: space-between;
     background-color: lightblue;
+    padding: 10px;  
+}
+
+.mid-pic{
+    width: 370px;
+    height:370px;
+    border-radius: 10px;
+}
+
+.motivation{
+    background-color: lightgreen;
+    padding: 10px;
 }
