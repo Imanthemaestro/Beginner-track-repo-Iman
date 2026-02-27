@@ -1,0 +1,45 @@
+.header{
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.weekdays{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+}
+.day{
+    background-color: violet;
+    padding: 10px;
+}
+
+.mid-section-with-pic{
+    display: flex;
+    justify-content: space-between;
+    background-color: lightblue;
+    padding: 10px;  
+}
+
+.mid-pic{
+    width: 370px;
+    height:370px;
+    border-radius: 10px;
+}
+
+.motivation{
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+.bottom{
+    display: flex; 
+}
+
+.bottom-item{
+    background-color: lightcoral;
+    padding: 10px;
+    margin: 10px;
+    flex: 1;
+}
