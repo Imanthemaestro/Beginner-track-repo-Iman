@@ -32,6 +32,7 @@ body.dark-mode button{
     background-color: grey;
     display: flex;
     justify-content: space-between;
+    padding-bottom: 20px;
 }
 
 .weekdays{
@@ -42,4 +43,9 @@ body.dark-mode button{
 .day{
     background-color: violet;
     padding: 10px;
+}
+
+.mid-section-with-pic{
+    display: flex;
+    background-color: lightblue;
 }
