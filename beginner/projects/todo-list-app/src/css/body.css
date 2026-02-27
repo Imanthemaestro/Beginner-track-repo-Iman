@@ -2,6 +2,19 @@
     background-color: grey;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+.header-text{
+    display: flex;
+    flex-direction: column;
+}
+
+.pfp{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: white;
 }
 
 
@@ -17,9 +30,8 @@
 
 .mid-section-with-pic{
     display: flex;
-    justify-content: space-between;
-    background-color: lightblue;
-    padding: 10px;  
+    gap: 20px;
+    background-color: lightblue; 
 }
 
 .mid-pic{
