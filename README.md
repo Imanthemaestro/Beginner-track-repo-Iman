@@ -10,3 +10,6 @@ This repository contains my submission for the Beginner Track of the Google Deve
 - Learning notes, challenges faced, and solutions.
 
 The project demonstrates my understanding of basic HTML, CSS, JavaScript, and version control using Git.
+
+How to run the project: open "index.html" in a browser. 
+Click the moon icon to toggle dark mode. 
