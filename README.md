@@ -5,6 +5,7 @@ This repository contains my submission for the Beginner Track of the Google Deve
 ## Contents
 
 - A beginner-friendly To-Do List Web Application.
+- With light/dark mode switch. 
 - Documentation of prompts used during development.
 - Learning notes, challenges faced, and solutions.
 
