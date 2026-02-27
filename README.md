@@ -13,3 +13,11 @@ The project demonstrates my understanding of basic HTML, CSS, JavaScript, and ve
 
 How to run the project: open "index.html" in a browser. 
 Click the moon icon to toggle dark mode. 
+
+## Preview
+
+### Light Mode
+![Light Mode](images/lightmode-upper-half.png)
+
+### Dark Mode
+![Dark Mode](images/dark-mode.png)
